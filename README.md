@@ -13,7 +13,8 @@ Here are some programs and tools I've built:
 See the Minecraft modpacks I've created:
 
 - **[Jaffa Factory 2 (Replica)](https://www.curseforge.com/minecraft/modpacks/jaffa-factory-2-replica)**
-- **[MiniDuncan Client](https://modrinth.com/modpack/miniduncan-client)+(https://www.curseforge.com/minecraft/modpacks/miniduncan-client)**
+- **[MiniDuncan Client 1.20.1](https://modrinth.com/modpack/miniduncan-client)**
+- **[MiniDuncan Client 1.19.3](https://www.curseforge.com/minecraft/modpacks/miniduncan-client)**
 - **[MiniDuncan SMP Reboot](https://www.curseforge.com/minecraft/modpacks/miniduncan-smp-reboot)**
 
 ---
