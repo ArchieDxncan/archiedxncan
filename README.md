@@ -19,18 +19,18 @@ See the Minecraft modpacks I've created:
 
 ---
 
+## 🌐 **Websites**
+Here are some of the websites I've created:
+
+- **[DCN SPORT](https://duncansu.miniduncan.net)**
+
+---
+
 ## 🎮 **Games**
 Check out the games I've developed:
 
 - **[MiniDuncan's FPS](https://miniduncan.itch.io/miniduncans-fps)**
 - **[SPARKED](https://miniduncan.itch.io/sparked)**
 - **[Mini's Bizarre Adventure](https://miniduncan.itch.io/minis-bizarre-adventure)**
-
----
-
-## 🌐 **Websites**
-Here are some of the websites I've created:
-
-- **[DCN SPORT](https://duncansu.miniduncan.net)**
 
 ---
