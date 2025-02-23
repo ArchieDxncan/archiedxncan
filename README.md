@@ -19,6 +19,10 @@ See the Minecraft modpacks I've created:
 - **[MiniDuncan Client 1.19.3](https://www.curseforge.com/minecraft/modpacks/miniduncan-client)**
 - **[MiniDuncan SMP Reboot](https://www.curseforge.com/minecraft/modpacks/miniduncan-smp-reboot)**
 
+## 🧱 **Minecraft Mods**
+These are the Minecraft mods I've created:
+- **[CobblemonExtraData](https://curseforge.com/minecraft/mc-mods/cobblemon-extra-data)**
+
 ---
 
 ## 🌐 **Websites**
