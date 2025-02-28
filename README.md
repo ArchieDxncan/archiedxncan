@@ -1,7 +1,7 @@
 # Welcome to My Portfolio! 👋
 This is a collection of everything I have created over the years all in one place.
 
----
+
 ## 🛠️ **Programs**
 Here are some programs and tools I've built:
 
