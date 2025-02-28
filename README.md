@@ -1,12 +1,11 @@
 # Welcome to My Portfolio! 👋
-This is a collection of everything I have created over the years all in one place. Each section is ordered from Most Recent to Least Recent.
+This is a collection of everything I have created over the years all in one place.
 
 ---
 ## 🛠️ **Programs**
 Here are some programs and tools I've built:
 
-- **Cobblemon <=> Pokemon Converter** (Currently Developing)
-https://github.com/ArchieDxncan/cobblemon-transporter
+- [Cobblemon Transporter](https://github.com/ArchieDxncan/cobblemon-transporter)
 
 ---
 
@@ -22,6 +21,7 @@ See the Minecraft modpacks I've created:
 ## 🧱 **Minecraft Mods**
 These are the Minecraft mods I've created:
 - **[CobblemonExtraData](https://curseforge.com/minecraft/mc-mods/cobblemon-extra-data)**
+- **[CobblemonMarks](https://curseforge.com/minecraft/mc-mods/cobblemon-marks)**
 
 ---
 
