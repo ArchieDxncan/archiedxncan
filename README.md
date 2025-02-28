@@ -12,7 +12,6 @@ Here are some programs and tools I've built:
 ## 🧱 **Minecraft Modpacks**
 See the Minecraft modpacks I've created:
 
-- **[Cobbleduncan](https://www.dropbox.com/scl/fi/zewifvis3pry956p2dw3p/Cobbleduncan-2.0.0.mrpack?rlkey=fng47vxn01a6t1zjpegqsh77r&st=kafnslyv&dl=1)** (Dropbox Download)
 - **[Jaffa Factory 2 (Replica)](https://www.curseforge.com/minecraft/modpacks/jaffa-factory-2-replica)**
 - **[MiniDuncan Client 1.20.1](https://modrinth.com/modpack/miniduncan-client)**
 - **[MiniDuncan Client 1.19.3](https://www.curseforge.com/minecraft/modpacks/miniduncan-client)**
