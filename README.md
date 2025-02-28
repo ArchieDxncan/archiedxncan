@@ -52,10 +52,5 @@ Here are some of the websites I've created:
 
 ---
 
-## 📫 Contact
-- **Discord** - @miniduncan
 
----
-
-## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArchieDxncan&show_icons=true&theme=radical)
