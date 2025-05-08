@@ -10,6 +10,14 @@ Here are some programs and tools I've built:
 
 ---
 
+---
+
+## ⚔️ Pokemon Champions 2D
+
+- [Pokemon Champions 2D](https://champions2d.miniduncan.net)
+
+---
+
 ## 🧱 Minecraft Modpacks
 See the Minecraft modpacks I've created:
 
@@ -36,7 +44,7 @@ These are the Minecraft mods I've created:
 
 ---
 
-## 🎮 Games
+## 🎮 Past Unity Games
 Check out the games I've developed:
 
 - [MiniDuncan's FPS](https://miniduncan.itch.io/miniduncans-fps)
@@ -48,7 +56,7 @@ Check out the games I've developed:
 ## 🌐 Websites
 Here are some of the websites I've created:
 
-- [DCN SPORT](https://duncansu.miniduncan.net)
+- [Pokemon Champions 2D](https://champions2d.miniduncan.net)
 
 ---
 
