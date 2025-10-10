@@ -1,23 +1,17 @@
-# Welcome to My Portfolio! 👋
-This is a collection of everything I have created over the years all in one place.
-
----
-
 ## 🛠️ Programs
-Here are some programs and tools I've built:
 
 - [Cobblemon Transporter](https://github.com/ArchieDxncan/cobblemon-transporter)
 
 ---
 
-## ⚔️ Pokemon Champions 2D
+## ⚔️ Games
 
+- [MiniDuncan's FPS](https://miniduncan.itch.io/miniduncans-fps)
 - [Pokemon Champions 2D](https://champions2d.miniduncan.net)
 
 ---
 
 ## 🧱 Minecraft Modpacks
-See the Minecraft modpacks I've created:
 
 - [Jaffa Factory 2 (Replica)](https://www.curseforge.com/minecraft/modpacks/jaffa-factory-2-replica)  
   ![CurseForge Downloads](https://cf.way2muchnoise.eu/1132629.svg)
@@ -28,7 +22,6 @@ See the Minecraft modpacks I've created:
   
 
 ## 🧱 Minecraft Mods
-These are the Minecraft mods I've created:
 
 - [CobblemonExtraData (CurseForge)](https://www.curseforge.com/minecraft/mc-mods/cobblemon-extra-data)  
   ![CurseForge Downloads](https://cf.way2muchnoise.eu/1207026.svg)  
@@ -42,17 +35,14 @@ These are the Minecraft mods I've created:
 
 ---
 
-## 🎮 Past Unity Games
-Check out the games I've developed:
+## 🎮 Archived Unity Games
 
-- [MiniDuncan's FPS](https://miniduncan.itch.io/miniduncans-fps)
 - [SPARKED](https://miniduncan.itch.io/sparked)
 - [Mini's Bizarre Adventure](https://miniduncan.itch.io/minis-bizarre-adventure)
 
 ---
 
 ## 🌐 Websites
-Here are some of the websites I've created:
 
 - [Pokemon Champions 2D](https://champions2d.miniduncan.net)
 
