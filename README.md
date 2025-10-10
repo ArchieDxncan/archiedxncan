@@ -4,7 +4,7 @@
 
 ---
 
-## ⚔️ Games
+## 🎮 Games
 
 - [ArenaBound](https://miniduncan.itch.io/arenabound)
 - [Pokemon Champions 2D](https://champions2d.miniduncan.net)
@@ -16,10 +16,6 @@
 
 - [Jaffa Factory 2 (Replica)](https://www.curseforge.com/minecraft/modpacks/jaffa-factory-2-replica)  
   ![CurseForge Downloads](https://cf.way2muchnoise.eu/1132629.svg)
-
-- [MiniDuncan Client 1.20.1](https://modrinth.com/modpack/miniduncan-client)
-- [MiniDuncan Client 1.19.3](https://www.curseforge.com/minecraft/modpacks/miniduncan-client)
-- [MiniDuncan SMP Reboot](https://www.curseforge.com/minecraft/modpacks/miniduncan-smp-reboot)
   
 
 ## 🧱 Minecraft Mods
@@ -36,16 +32,19 @@
 
 ---
 
-## 🎮 Archived Unity Games
-
-- [SPARKED](https://miniduncan.itch.io/sparked)
-- [Mini's Bizarre Adventure](https://miniduncan.itch.io/minis-bizarre-adventure)
-
----
-
 ## 🌐 Websites
 
 - [Pokemon Champions 2D](https://champions2d.miniduncan.net)
+
+---
+
+## Archive
+
+- [MiniDuncan Client 1.20.1](https://modrinth.com/modpack/miniduncan-client)
+- [MiniDuncan Client 1.19.3](https://www.curseforge.com/minecraft/modpacks/miniduncan-client)
+- [MiniDuncan SMP Reboot](https://www.curseforge.com/minecraft/modpacks/miniduncan-smp-reboot)
+- [SPARKED](https://miniduncan.itch.io/sparked)
+- [Mini's Bizarre Adventure](https://miniduncan.itch.io/minis-bizarre-adventure)
 
 ---
 
