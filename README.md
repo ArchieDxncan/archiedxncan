@@ -6,7 +6,8 @@
 
 ## 🎮 Games
 
-- [ArenaBound](https://miniduncan.itch.io/arenabound)
+- [LegacyDxncan](https://github.com/ArchieDxncan/LegacyDxncan)
+
 - [Pokemon Champions 2D](https://champions2d.miniduncan.net)
 - [MiniDuncan's FPS](https://miniduncan.itch.io/miniduncans-fps)
 
@@ -34,6 +35,7 @@
 
 ## 🌐 Websites
 
+- [LegacyDxncan Account Manager](https://archiedxncan.github.io/LegacyDxncan)
 - [Pokemon Champions 2D](https://champions2d.miniduncan.net)
 
 ---
