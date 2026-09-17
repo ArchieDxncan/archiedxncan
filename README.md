@@ -1,6 +1,9 @@
 ## 🛠️ Programs
 
 - [Cobblemon Transporter](https://github.com/ArchieDxncan/cobblemon-transporter)
+- [Yo-Kai Watch 3DS -> Switch Save Converter](https://github.com/ArchieDxncan/ykw-3ds-to-switch)
+- [Yo-Kai Watch Bank](https://github.com/ArchieDxncan/ykw-bank)
+- [YKSM (Yo-Kai Watch Save Manager](https://github.com/ArchieDxncan/YKSM)
 
 ---
 
